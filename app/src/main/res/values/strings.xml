@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Catty</string>
+    <string name="rank">0</string>
+    <string name="OBJETO_MASCOTA">OBJETO_MASCOTA</string>
+    <string name="LONGITUD_LISTA">OBJETO_MASCOTA</string>
+</resources>
