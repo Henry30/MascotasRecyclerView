@@ -1,6 +1,11 @@
-# MascotasRecyclerView
-Catálogo de Mascotas
+# RecyclerView - CardView de Mascotas
+Pantalla Inicial Lista de Mascotas
+![Alt text](https://cloud.githubusercontent.com/assets/17391733/19025429/36304686-88de-11e6-898e-942ac2976031.png)
 
+Pantalla Mascotas favoritas
+![Alt text](https://cloud.githubusercontent.com/assets/17391733/19025434/4b924f7e-88de-11e6-9a14-a8c15cdc5347.png)
+
+Codigo Fuente
 Actionbar xml
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.v7.widget.Toolbar
