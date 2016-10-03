@@ -91,13 +91,13 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         else {
-            lstObjMascota.add(new Mascota("Catty", R.drawable.imagenperro1, 1));
-            lstObjMascota.add(new Mascota("Ronny", R.drawable.imagenperro2, 2));
-            lstObjMascota.add(new Mascota("Dumy", R.drawable.imagenperro3, 3));
-            lstObjMascota.add(new Mascota("Donko", R.drawable.imagenperro4, 4));
-            lstObjMascota.add(new Mascota("Lobo", R.drawable.imagenperro5, 5));
-            lstObjMascota.add(new Mascota("Bobby", R.drawable.imagenperro6, 6));
-            lstObjMascota.add(new Mascota("Toby", R.drawable.imagenperro7, 7));
+            lstObjMascota.add(new Mascota("Catty", R.drawable.imgperro1, 1));
+            lstObjMascota.add(new Mascota("Ronny", R.drawable.imgperro2, 2));
+            lstObjMascota.add(new Mascota("Dumy", R.drawable.imgperro3, 3));
+            lstObjMascota.add(new Mascota("Donko", R.drawable.imgperro4, 4));
+            lstObjMascota.add(new Mascota("Lobo", R.drawable.imgperro5, 5));
+            lstObjMascota.add(new Mascota("Bobby", R.drawable.imgperro6, 6));
+            lstObjMascota.add(new Mascota("Toby", R.drawable.imggato, 7));
         }
     }
 }

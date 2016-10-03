@@ -18,7 +18,7 @@
             android:id="@+id/imgFoto"
             android:layout_width="match_parent"
             android:layout_height="@dimen/heightFoto_cardview"
-            android:src="@drawable/imagenperro1"
+            android:src="@drawable/imgperro1"
             android:scaleType="centerCrop"
             android:layout_gravity="center_horizontal"
             />

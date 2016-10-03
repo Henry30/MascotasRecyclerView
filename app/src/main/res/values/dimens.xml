@@ -8,7 +8,7 @@
     <dimen name="marginLeft_cardview">15sp</dimen>
     <dimen name="marginRight_cardview">15sp</dimen>
     <dimen name="marginTop_cardview">10sp</dimen>
-    <dimen name="heightFoto_cardview">210sp</dimen>
+    <dimen name="heightFoto_cardview">290dp</dimen>
     <dimen name="heightIconoRank_cardview">28dp</dimen>
     <dimen name="widthIconoRank_cardview">28dp</dimen>
     <dimen name="widthIconoRankLectura_cardview">38dp</dimen>
